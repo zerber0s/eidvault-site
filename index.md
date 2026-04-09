@@ -8,7 +8,7 @@ permalink: /
 
 ## Overview
 
-EIDVault is a Windows Event ID reference app for iOS and macOS. It provides a searchable, offline-capable database of Windows Security, System, PowerShell, and Application Event IDs, including MITRE ATT\&CK mappings and investigation guidance.
+EIDVault is a Windows Event ID reference app for iOS and macOS. It provides a searchable, offline-capable database of Windows Security, System, PowerShell, and Application Event IDs, including MITRE ATT&CK mappings and investigation guidance.
 
 **EIDVault does not collect, transmit, or share any personal information.**
 
@@ -67,7 +67,7 @@ EIDVault supports Siri Shortcuts via Apple's AppIntents framework. Any shortcuts
 
 ## External Links
 
-EIDVault may display links to external websites, including MITRE ATT\&CK (`attack.mitre.org`), Microsoft Learn (`learn.microsoft.com`), and GitHub (`github.com`). Tapping these links opens them in Safari. Once you leave the app, you are subject to the privacy policies of those third-party sites. EIDVault has no control over and assumes no responsibility for their content or practices.
+EIDVault may display links to external websites, including MITRE ATT&CK (`attack.mitre.org`), Microsoft Learn (`learn.microsoft.com`), and GitHub (`github.com`). Tapping these links opens them in Safari. Once you leave the app, you are subject to the privacy policies of those third-party sites. EIDVault has no control over and assumes no responsibility for their content or practices.
 
 ---
 
