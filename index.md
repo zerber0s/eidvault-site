@@ -4,11 +4,11 @@ title: Privacy Policy
 permalink: /
 ---
 
-**Last Updated: April 8, 2026**
+**Last Updated: April 9, 2026**
 
 ## Overview
 
-EIDVault is a Windows® Event ID reference app for iOS and macOS. It provides a searchable, offline-capable database of Windows Security event IDs and related log channels, including MITRE ATT&CK® mappings and investigation guidance.
+EIDVault is a Windows® Event ID (EID) reference app built for iOS. It provides a searchable, offline-capable database of EIDs within Windows Event Log channels, including MITRE ATT&CK® mappings and investigation guidance.
 
 **EIDVault does not collect, transmit, or share any personal information.**
 
