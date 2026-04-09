@@ -91,4 +91,4 @@ If this privacy policy changes, the updated policy will be posted at this URL wi
 
 ## Contact
 
-If you have questions about this privacy policy, you can reach out via the [EIDVault GitHub repository](https://github.com/zerber0s).
+If you have questions about this privacy policy, you can reach out at [eidvault@zerberos.io](mailto:eidvault@zerberos.io).
