@@ -8,7 +8,7 @@ permalink: /
 
 ## Overview
 
-EIDVault is a Windows Event ID reference app for iOS and macOS. It provides a searchable, offline-capable database of Windows Security, System, PowerShell, and Application Event IDs, including MITRE ATT&CK mappings and investigation guidance.
+EIDVault is a Windows® Event ID reference app for iOS and macOS. It provides a searchable, offline-capable database of Windows Security event IDs and related log channels, including MITRE ATT&CK® mappings and investigation guidance.
 
 **EIDVault does not collect, transmit, or share any personal information.**
 
