@@ -34,11 +34,12 @@ There are no third-party analytics, advertising, or crash-reporting SDKs include
 All data EIDVault stores remains entirely on your device and is never transmitted to any external server:
 
 - **Event ID Database:** Windows Event ID reference entries sourced from bundled and remotely updated JSON files. This is reference data, not user data.
-- **Favorites:** A boolean flag indicating which Event IDs you have bookmarked. Stored locally in the app's database.
+- **Favorites:** A bookmark state and timestamp indicating which Event IDs you have bookmarked and when. Stored locally in the app's database.
 - **Scenario History:** When you use the AI-powered investigation scenario feature, your query and the generated result are saved locally. Up to 50 scenario records are retained; older ones are automatically deleted. You can clear this history manually within the app.
 - **Recently Viewed:** A short list of recently viewed Event IDs, used to populate the recent history feature. Stored locally in iOS UserDefaults.
 - **Update Metadata:** Timestamps and version strings tracking when dataset files were last updated. Stored in iOS UserDefaults.
 - **Spotlight Index:** Event ID reference data is indexed for iOS system-wide search. This index is device-local and managed by iOS.
+- **Clipboard:** When you tap a copy button in the app, the selected content (such as an event ID, summary, detection rule, or MITRE technique ID) is written to your device clipboard. The app never reads from your clipboard.
 
 ---
 
