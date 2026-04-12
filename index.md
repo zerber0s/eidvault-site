@@ -40,6 +40,8 @@ All data EIDVault stores remains entirely on your device and is never transmitte
 - **Update Metadata:** Timestamps and version strings tracking when dataset files were last updated. Stored in iOS UserDefaults.
 - **Spotlight Index:** Event ID reference data is indexed for iOS system-wide search. This index is device-local and managed by iOS.
 - **Clipboard:** When you tap a copy button in the app, the selected content (such as an event ID, summary, detection rule, or MITRE technique ID) is written to your device clipboard. The app never reads from your clipboard.
+- **Sharing:** You can share event information via the system share sheet (e.g., Mail, Messages, Notes). This is entirely user-initiated, and EIDVault does not control how the receiving app handles the shared content.
+- **Widget:** The "EID of the Day" home screen widget displays reference data shared from the main app via a local app group. No data leaves your device as part of this feature.
 
 ---
 
